@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="create_a_new_note">Create a new note</string>
+    <string name="image">Image</string>
+    <string name="show_all_notes">Show all notes</string>
+    <string name="note">Note</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_your_note_here">Enter your note here</string>
+</resources>
